@@ -15,9 +15,19 @@ Another benefit is the fact that we can design, new pipelines for data without a
 
 #### 3. [Theia Plugin](https://github.com/malike/theia-plugins)
 
+1. [Theia Source](https://github.com/malike/theia-plugins/tree/master/theia-source) : Main entry to capture stream of data from Theia Hardware
 
+2. [Face Detection Transformer]()
+
+3. [Go Alert Sink]()
+
+4. [Dropbox Upload Sink]()
+
+4. [Video Stream Sink]()
 
 #### 4. Demo Project
+
+
 
 
 
